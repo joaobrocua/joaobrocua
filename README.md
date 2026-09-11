@@ -2,7 +2,7 @@
 
 Estudante de Sistemas de Informação (UFR) do 6° Semestre e Agente de Registro ICP-Brasil na Facilita Certificadora Digital. 
 
-- 🌐 Portfólio: [joaobrocua.github.io/teste-portfolio](https://joaobrocua.github.io/teste-portfolio/)
+- 🌐 Portfólio: [joaobrocua.github.io/teste-portfolio](https://joaobrocua.github.io/portfolio-joao/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/joão-pedro-brocuá-9a5854256)
 - 📫 jbrocua@gmail.com
 
