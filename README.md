@@ -1,6 +1,6 @@
 ### Olá, eu sou o João Pedro Brocuá
 
-Estudante de Sistemas da Informação (UFR) e Agente de Registro ICP-Brasil na Facilita Certificadora Digital. Nas horas vagas, construo aplicações fullstack — de dashboards financeiros a sistemas de gestão.
+Estudante de Sistemas da Informação (UFR) e Agente de Registro ICP-Brasil na Facilita Certificadora Digital. 
 
 - 🌐 Portfólio: [joaobrocua.github.io/teste-portfolio](https://joaobrocua.github.io/teste-portfolio/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/joão-pedro-brocuá-9a5854256)
