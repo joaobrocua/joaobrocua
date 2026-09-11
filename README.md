@@ -37,6 +37,7 @@ Estudante de Sistemas da Informação (UFR) e Agente de Registro ICP-Brasil na F
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-**Certificado Digital**
+**Certificado Digital ICP-Brasil**
 
-![Certificado ICP-Brasil](https://img.shields.io/badge/Certificado-ICP--Brasil-006341?style=flat-square)
+![Certificado e-CPF](https://img.shields.io/badge/Certificado_Digital-e--CPF-006341?style=flat-square)
+![Certificado e-CNPJ](https://img.shields.io/badge/Certificado_Digital-e--CNPJ-006341?style=flat-square)
